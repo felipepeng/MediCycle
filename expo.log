@@ -1,0 +1,26 @@
+Starting project at G:\Peng\Projetinhos\Medycicle
+Starting Metro Bundler
+
+warning: Bundler cache is empty, rebuilding (this may take a minute)
+Waiting on http://localhost:8081
+Logs for your project will appear below.
+Android .\index.js ░░░░░░░░░░░░░░░░  0.0% (0/1)
+Android .\index.js ▓▓▓▓▓▓░░░░░░░░░░ 41.2% (312/486)
+Android .\index.js ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░ 99.8% (959/960)
+Android Bundled 7433ms index.js (970 modules)
+Web .\index.js ░░░░░░░░░░░░░░░░  0.0% (0/1)
+Web Bundled 3295ms index.js (551 modules)
+ LOG  [web] Logs will appear in the browser console
+Web .\index.js ░░░░░░░░░░░░░░░░  0.0% (0/1)
+Web Bundled 25ms index.js (1 module)
+ LOG  [web] Logs will appear in the browser console
+Web .\index.js ░░░░░░░░░░░░░░░░  0.0% (0/1)
+Web Bundled 19ms index.js (1 module)
+ LOG  [web] Logs will appear in the browser console
+Web .\index.js ░░░░░░░░░░░░░░░░  0.0% (0/1)
+Web Bundled 22ms index.js (1 module)
+ LOG  [web] Logs will appear in the browser console
+Web Bundled 19ms index.js (1 module)
+ LOG  [web] Logs will appear in the browser console
+Web Bundled 21ms index.js (1 module)
+ LOG  [web] Logs will appear in the browser console
